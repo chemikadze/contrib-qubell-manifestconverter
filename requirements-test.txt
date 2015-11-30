@@ -1,0 +1,3 @@
+qubell-api-python-client
+nose
+testtools
